@@ -13,4 +13,3 @@ This workshop will teach you how to create a GitHub App that automatically moder
 ### Instructions
 
 Please refer to the [Instructions README](/docs/readme.md)
-
